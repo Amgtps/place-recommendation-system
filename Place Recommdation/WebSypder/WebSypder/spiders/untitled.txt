@@ -1,0 +1,8 @@
+header = response.css("div.card.content-card h3::text").get()
+
+rating = response.css("span.rating-badge b::text").get()
+
+distance (from city center )  =  response.css("div.card-body p.objective span::text").get()
+
+description = response.css("div.card-body p.card-text::text").get()
+

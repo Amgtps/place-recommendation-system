@@ -1,0 +1,870 @@
+,city_name,name,city_cleaned
+0,Bihar,Bodh Gaya,Bodh-Gaya
+1,Bihar,Patna,Patna
+2,Bihar,Nalanda,Nalanda
+3,Bihar,Vaishali,Vaishali
+4,Bihar,Madhubani,Madhubani
+5,Bihar,Muzaffarpur,Muzaffarpur
+6,Bihar,Bhagalpur,Bhagalpur
+7,Bihar,Rajgir,Rajgir
+8,Bihar,Pawapuri,Pawapuri
+9,Bihar,Hajipur,Hajipur
+10,Bihar,Sitamarhi,Sitamarhi
+11,Bihar,Lauriya Nandangarh,Lauriya-Nandangarh
+12,Bihar,Valmiki National Park,Valmiki-National-Park
+13,Bihar,Chhat Puja,Chhat-Puja
+14,Bihar,Tomb of Sher Shah Suri,Tomb-of-Sher-Shah-Suri
+15,Bihar,Navlakha Palace,Navlakha-Palace
+16,Bihar,Jal Mandir,Jal-Mandir
+17,Bihar,Mundeshwari Temple,Mundeshwari-Temple
+18,Andhra Pradesh,Araku Valley,Araku-Valley
+19,Andhra Pradesh,Visakhapatnam,Visakhapatnam
+20,Andhra Pradesh,Amaravathi,Amaravathi
+21,Andhra Pradesh,Gandikota,Gandikota
+22,Andhra Pradesh,Tirupati,Tirupati
+23,Andhra Pradesh,Vijayawada,Vijayawada
+24,Andhra Pradesh,Anantapur,Anantapur
+25,Andhra Pradesh,Srisailam,Srisailam
+26,Andhra Pradesh,Ananthagiri Hills,Ananthagiri-Hills
+27,Andhra Pradesh,Kurnool,Kurnool
+28,Andhra Pradesh,Guntur,Guntur
+29,Andhra Pradesh,Nellore,Nellore
+30,Andhra Pradesh,Lepakshi,Lepakshi
+31,Andhra Pradesh,Rajahmundry,Rajahmundry
+32,Andhra Pradesh,Horsley Hills,Horsley-Hills
+33,Andhra Pradesh,Rollapadu Wildlife Sanctuary,Rollapadu-Wildlife-Sanctuary
+34,Andhra Pradesh,Lambasingi,Lambasingi
+35,Andhra Pradesh,Chittoor,Chittoor
+36,Andhra Pradesh,Borra Caves,Borra-Caves
+37,Andhra Pradesh,Bhavani Island,Bhavani-Island
+38,Andhra Pradesh,Machilipatnam,Machilipatnam
+39,Andhra Pradesh,Kakinada,Kakinada
+40,Andhra Pradesh,Konaseema,Konaseema
+41,Andhra Pradesh,Srikalahasti,Srikalahasti
+42,Andhra Pradesh,Mantralayam,Mantralayam
+43,Andhra Pradesh,Annavaram,Annavaram
+44,Andhra Pradesh,Puttaparthi,Puttaparthi
+45,Andhra Pradesh,Vizianagaram,Vizianagaram
+46,Andhra Pradesh,Samalkot,Samalkot
+47,Andhra Pradesh,Nagarjunakonda,Nagarjunakonda
+48,Andhra Pradesh,Yaganti,Yaganti
+49,Andhra Pradesh,Rushikonda Beach,Rushikonda-Beach
+50,Andhra Pradesh,Coringa Wildlife Sanctuary,Coringa-Wildlife-Sanctuary
+51,Andhra Pradesh,Maredumilli,Maredumilli
+52,Andhra Pradesh,Draksharamam,Draksharamam
+53,Andhra Pradesh,Oravakallu Rock Garden,Oravakallu-Rock-Garden
+54,Andhra Pradesh,Ahobilam Temple,Ahobilam-Temple
+55,Andhra Pradesh,Rayadurg,Rayadurg
+56,Andhra Pradesh,Kaigal Falls,Kaigal-Falls
+57,Andhra Pradesh,Tadipatri,Tadipatri
+58,Andhra Pradesh,Nagalapuram,Nagalapuram
+59,Andhra Pradesh,Chirala Beach,Chirala-Beach
+60,Chhattisgarh,Barnawapara Wildlife Sanctuary,Barnawapara-Wildlife-Sanctuary
+61,Chhattisgarh,Raipur,Raipur
+62,Chhattisgarh,Jagdalpur,Jagdalpur
+63,Chhattisgarh,Charre Marre Waterfalls,Charre-Marre-Waterfalls
+64,Chhattisgarh,Sirpur,Sirpur
+65,Chhattisgarh,Mainpat,Mainpat
+66,Chhattisgarh,Madku Dweep,Madku-Dweep
+67,Chhattisgarh,Dhamtari,Dhamtari
+68,Chhattisgarh,Bhilai,Bhilai
+69,Chhattisgarh,Chitrakote Falls,Chitrakote-Falls
+70,Chhattisgarh,Indravati National Park,Indravati-National-Park
+71,Chhattisgarh,Chirmiri,Chirmiri
+72,Chhattisgarh,Tirathgarh Falls,Tirathgarh-Falls
+73,Chhattisgarh,Dantewada,Dantewada
+74,Chhattisgarh,Ghatarani Waterfalls,Ghatarani-Waterfalls
+75,Chhattisgarh,Bhoramdeo Temple,Bhoramdeo-Temple
+76,Chhattisgarh,Malhar,Malhar
+77,Chhattisgarh,Rajim,Rajim
+78,Chhattisgarh,Guru Ghasidas (Sanjay) National Park,Guru-Ghasidas-(Sanjay)-National-Park
+79,Chhattisgarh,Kanger Ghati National Park,Kanger-Ghati-National-Park
+80,Chhattisgarh,Purkhauti Muktangan,Purkhauti-Muktangan
+81,Chhattisgarh,Achanakmar Wildlife Sanctuary,Achanakmar-Wildlife-Sanctuary
+82,Gujarat,Ahmedabad,Ahmedabad
+83,Gujarat,Kutch,Kutch
+84,Gujarat,Gir National Park,Gir-National-Park
+85,Gujarat,Somnath,Somnath
+86,Gujarat,Statue of Unity,Statue-of-Unity
+87,Gujarat,Vadodara,Vadodara
+88,Gujarat,Dwarka,Dwarka
+89,Gujarat,Saputara,Saputara
+90,Gujarat,Champaner,Champaner
+91,Gujarat,Junagadh,Junagadh
+92,Gujarat,Gandhinagar,Gandhinagar
+93,Gujarat,Porbandar,Porbandar
+94,Gujarat,Bhuj,Bhuj
+95,Gujarat,Surat,Surat
+96,Gujarat,Patan,Patan
+97,Gujarat,Dholavira,Dholavira
+98,Gujarat,Ambaji,Ambaji
+99,Gujarat,Anand,Anand
+100,Gujarat,Girnar,Girnar
+101,Gujarat,Rajkot,Rajkot
+102,Gujarat,Himatnagar,Himatnagar
+103,Gujarat,Bhavnagar,Bhavnagar
+104,Gujarat,Palanpur,Palanpur
+105,Gujarat,Umbergaon,Umbergaon
+106,Gujarat,Anjar,Anjar
+107,Gujarat,Pirotan Island,Pirotan-Island
+108,Gujarat,Dandi Beach,Dandi-Beach
+109,Gujarat,Zarwani Waterfalls,Zarwani-Waterfalls
+110,Gujarat,Hathni Waterfalls,Hathni-Waterfalls
+111,Gujarat,Kabirvad,Kabirvad
+112,Gujarat,Vadla,Vadla
+113,Gujarat,Modhera,Modhera
+114,Gujarat,Marine National Park,Marine-National-Park
+115,Gujarat,Wilson Hills,Wilson-Hills
+116,Gujarat,Wankaner,Wankaner
+117,Gujarat,Nargol Beach,Nargol-Beach
+118,Gujarat,Sardar Sarovar Dam,Sardar-Sarovar-Dam
+119,Gujarat,Ratanmahal Sloth Bear Sanctuary,Ratanmahal-Sloth-Bear-Sanctuary
+120,Gujarat,Zanzari Waterfalls,Zanzari-Waterfalls
+121,Gujarat,Taranga Hills,Taranga-Hills
+122,Gujarat,Sardar Patel Zoological Park,Sardar-Patel-Zoological-Park
+123,Gujarat,Thol Bird Sanctuary,Thol-Bird-Sanctuary
+124,Haryana,Gurgaon,Gurgaon
+125,Haryana,Kurukshetra,Kurukshetra
+126,Haryana,Panchkula,Panchkula
+127,Haryana,Faridabad,Faridabad
+128,Haryana,Panipat,Panipat
+129,Haryana,Narnaul,Narnaul
+130,Haryana,Nuh,Nuh
+131,Haryana,Karnal,Karnal
+132,Haryana,Rohtak,Rohtak
+133,Haryana,Sultanpur Bird Sanctuary,Sultanpur-Bird-Sanctuary
+134,Haryana,Morni Hills,Morni-Hills
+135,Haryana,Damdama Lake,Damdama-Lake
+136,Haryana,Manesar,Manesar
+137,Haryana,Murthal,Murthal
+138,Haryana,Kalesar National Park,Kalesar-National-Park
+139,Haryana,Chandigarh,Chandigarh
+140,Arunachal Pradesh,Tawang,Tawang
+141,Arunachal Pradesh,Ziro,Ziro
+142,Arunachal Pradesh,Namdapha National Park,Namdapha-National-Park
+143,Arunachal Pradesh,Sela Pass,Sela-Pass
+144,Arunachal Pradesh,Roing,Roing
+145,Arunachal Pradesh,Itanagar,Itanagar
+146,Arunachal Pradesh,Bomdila,Bomdila
+147,Arunachal Pradesh,Bhalukpong,Bhalukpong
+148,Arunachal Pradesh,Anini,Anini
+149,Arunachal Pradesh,Pasighat,Pasighat
+150,Arunachal Pradesh,Aalo,Aalo
+151,Arunachal Pradesh,Tirap,Tirap
+152,Arunachal Pradesh,Madhuri Lake,Madhuri-Lake
+153,Arunachal Pradesh,Pakhui Wildlife Sanctuary,Pakhui-Wildlife-Sanctuary
+154,Arunachal Pradesh,Daporijo,Daporijo
+155,Arunachal Pradesh,Gorichen Peak,Gorichen-Peak
+156,Arunachal Pradesh,Khonsa,Khonsa
+157,Arunachal Pradesh,Changlang,Changlang
+158,Arunachal Pradesh,Yingkiong,Yingkiong
+159,Arunachal Pradesh,Anjaw,Anjaw
+160,Arunachal Pradesh,Yupia,Yupia
+161,Arunachal Pradesh,Nuranang Falls,Nuranang-Falls
+162,Arunachal Pradesh,Mechuka,Mechuka
+163,Arunachal Pradesh,Tezu,Tezu
+164,Arunachal Pradesh,Dirang,Dirang
+165,Himachal Pradesh,Manali,Manali
+166,Himachal Pradesh,Kasol,Kasol
+167,Himachal Pradesh,Shimla,Shimla
+168,Himachal Pradesh,Jibhi,Jibhi
+169,Himachal Pradesh,Mcleodganj,Mcleodganj
+170,Himachal Pradesh,Spiti Valley,Spiti-Valley
+171,Himachal Pradesh,Dalhousie,Dalhousie
+172,Himachal Pradesh,Bir Billing,Bir-Billing
+173,Himachal Pradesh,Kasauli,Kasauli
+174,Himachal Pradesh,Fagu,Fagu
+175,Himachal Pradesh,Kaza,Kaza
+176,Himachal Pradesh,Tirthan Valley,Tirthan-Valley
+177,Himachal Pradesh,Sethan Valley,Sethan-Valley
+178,Himachal Pradesh,Khajjiar,Khajjiar
+179,Himachal Pradesh,Kufri,Kufri
+180,Himachal Pradesh,Tosh,Tosh
+181,Himachal Pradesh,Dharamshala,Dharamshala
+182,Himachal Pradesh,Chail,Chail
+183,Himachal Pradesh,Palampur,Palampur
+184,Himachal Pradesh,Narkanda,Narkanda
+185,Himachal Pradesh,Prashar Lake Trek,Prashar-Lake-Trek
+186,Himachal Pradesh,Naggar,Naggar
+187,Himachal Pradesh,Sarahan,Sarahan
+188,Himachal Pradesh,Kalpa,Kalpa
+189,Himachal Pradesh,Parvati Valley,Parvati-Valley
+190,Himachal Pradesh,Chamba,Chamba
+191,Himachal Pradesh,Kinnaur,Kinnaur
+192,Himachal Pradesh,Indrahar Pass Trek,Indrahar-Pass-Trek
+193,Himachal Pradesh,Nahan,Nahan
+194,Himachal Pradesh,Kangra,Kangra
+195,Himachal Pradesh,Bilaspur,Bilaspur
+196,Himachal Pradesh,Kullu,Kullu
+197,Himachal Pradesh,Shoghi,Shoghi
+198,Himachal Pradesh,Tattapani,Tattapani
+199,Himachal Pradesh,Mandi,Mandi
+200,Himachal Pradesh,Manikaran Sahib,Manikaran-Sahib
+201,Himachal Pradesh,Shoja,Shoja
+202,Himachal Pradesh,Solan,Solan
+203,Himachal Pradesh,Sangla,Sangla
+204,Himachal Pradesh,Mashobra,Mashobra
+205,Himachal Pradesh,Nalagarh,Nalagarh
+206,Himachal Pradesh,Arki,Arki
+207,Jammu and Kashmir,Gulmarg,Gulmarg
+208,Jammu and Kashmir,Srinagar,Srinagar
+209,Jammu and Kashmir,Gulmarg Gondola,Gulmarg-Gondola
+210,Jammu and Kashmir,Vaishno Devi,Vaishno-Devi
+211,Jammu and Kashmir,Sonamarg,Sonamarg
+212,Jammu and Kashmir,Pahalgam,Pahalgam
+213,Jammu and Kashmir,Aru Valley,Aru-Valley
+214,Jammu and Kashmir,Anantnag,Anantnag
+215,Jammu and Kashmir,Amarnath,Amarnath
+216,Jammu and Kashmir,Yusmarg,Yusmarg
+217,Jammu and Kashmir,Kishtwar National Park,Kishtwar-National-Park
+218,Jammu and Kashmir,Tarsar Marsar Trek,Tarsar-Marsar-Trek
+219,Jammu and Kashmir,Patnitop,Patnitop
+220,Jammu and Kashmir,Khilanmarg,Khilanmarg
+221,Jammu and Kashmir,Bhaderwah,Bhaderwah
+222,Jammu and Kashmir,Jammu,Jammu
+223,Jammu and Kashmir,Katra,Katra
+224,Jammu and Kashmir,Sanasar,Sanasar
+225,Jammu and Kashmir,Dachigam National Park,Dachigam-National-Park
+226,Jammu and Kashmir,Pulwama,Pulwama
+227,Jammu and Kashmir,Kashmir Great Lakes Trek,Kashmir-Great-Lakes-Trek
+228,Jammu and Kashmir,Baltal,Baltal
+229,Jammu and Kashmir,Betaab Valley,Betaab-Valley
+230,Jammu and Kashmir,Dal Lake,Dal-Lake
+231,Jammu and Kashmir,Nishat Bagh,Nishat-Bagh
+232,Jammu and Kashmir,Chandanwari,Chandanwari
+233,Jammu and Kashmir,Shankaracharya Temple,Shankaracharya-Temple
+234,Jharkhand,Deoghar,Deoghar
+235,Jharkhand,Jamshedpur,Jamshedpur
+236,Jharkhand,Ranchi,Ranchi
+237,Jharkhand,Betla National Park,Betla-National-Park
+238,Jharkhand,Ghatshila,Ghatshila
+239,Jharkhand,Shikharji,Shikharji
+240,Jharkhand,Dasham Falls,Dasham-Falls
+241,Jharkhand,Netarhat,Netarhat
+242,Jharkhand,Massanjore Dam,Massanjore-Dam
+243,Jharkhand,Hazaribagh,Hazaribagh
+244,Jharkhand,Bokaro Steel City,Bokaro-Steel-City
+245,Jharkhand,Dhanbad,Dhanbad
+246,Assam,Kaziranga National Park,Kaziranga-National-Park
+247,Assam,Majuli,Majuli
+248,Assam,Guwahati,Guwahati
+249,Assam,Manas National Park,Manas-National-Park
+250,Assam,Dibrugarh,Dibrugarh
+251,Assam,Jorhat,Jorhat
+252,Assam,Hajo,Hajo
+253,Assam,Bogamati,Bogamati
+254,Assam,Mayong Assam,Mayong-Assam
+255,Assam,Dibru Saikhowa National Park,Dibru-Saikhowa-National-Park
+256,Assam,Pobitora Wildlife Sanctuary,Pobitora-Wildlife-Sanctuary
+257,Assam,Barpeta,Barpeta
+258,Assam,Umananda Island,Umananda-Island
+259,Assam,Nameri National Park,Nameri-National-Park
+260,Assam,Tinsukia,Tinsukia
+261,Assam,Sivasagar,Sivasagar
+262,Assam,Diphu,Diphu
+263,Assam,Silchar,Silchar
+264,Assam,Goalpara,Goalpara
+265,Assam,Dispur,Dispur
+266,Assam,Sualkuchi,Sualkuchi
+267,Assam,Orang National Park,Orang-National-Park
+268,Assam,Lilabari,Lilabari
+269,Assam,Karimganj,Karimganj
+270,Assam,Bongaigaon,Bongaigaon
+271,Assam,Hailakandi,Hailakandi
+272,Assam,Dhemaji,Dhemaji
+273,Assam,Nalbari,Nalbari
+274,Assam,Darrang,Darrang
+275,Assam,Morigaon,Morigaon
+276,Assam,Nagaon,Nagaon
+277,Assam,Sadiya,Sadiya
+278,Assam,Digboi,Digboi
+279,Assam,Haflong,Haflong
+280,Assam,Tezpur,Tezpur
+281,Manipur,Imphal,Imphal
+282,Manipur,Thoubal,Thoubal
+283,Manipur,Tamenglong,Tamenglong
+284,Manipur,Chandel,Chandel
+285,Manipur,Loktak Lake and Sendra Island,Loktak-Lake-and-Sendra-Island
+286,Manipur,Moirang,Moirang
+287,Meghalaya,Shillong,Shillong
+288,Meghalaya,Elephant Falls,Elephant-Falls
+289,Meghalaya,Umiam Lake,Umiam-Lake
+290,Meghalaya,Double Decker Living Root Bridge,Double-Decker-Living-Root-Bridge
+291,Meghalaya,Cherrapunji,Cherrapunji
+292,Meghalaya,Dawki,Dawki
+293,Meghalaya,Mawsynram,Mawsynram
+294,Meghalaya,Balpakram National Park,Balpakram-National-Park
+295,Meghalaya,Williamnagar,Williamnagar
+296,Meghalaya,Nongpoh,Nongpoh
+297,Meghalaya,Nohkalikai Waterfalls,Nohkalikai-Waterfalls
+298,Meghalaya,Tura,Tura
+299,Meghalaya,Jowai,Jowai
+300,Meghalaya,Kyllang Rock,Kyllang-Rock
+301,Meghalaya,Mawlynnong,Mawlynnong
+302,Meghalaya,Nohsngithiang Falls,Nohsngithiang-Falls
+303,Meghalaya,Baghmara,Baghmara
+304,Meghalaya,Mawsmai Cave,Mawsmai-Cave
+305,Meghalaya,Jaintia Hills,Jaintia-Hills
+306,Meghalaya,Garo Hills,Garo-Hills
+307,Karnataka,Coorg,Coorg
+308,Karnataka,Badami,Badami
+309,Karnataka,Mysore,Mysore
+310,Karnataka,Hampi,Hampi
+311,Karnataka,Gokarna,Gokarna
+312,Karnataka,Udupi,Udupi
+313,Karnataka,Chikmagalur,Chikmagalur
+314,Karnataka,Jog Falls,Jog-Falls
+315,Karnataka,Murudeshwar,Murudeshwar
+316,Karnataka,Bangalore,Bangalore
+317,Karnataka,Dandeli,Dandeli
+318,Karnataka,Bandipur National Park,Bandipur-National-Park
+319,Karnataka,Nagarhole National Park,Nagarhole-National-Park
+320,Karnataka,Kabini,Kabini
+321,Karnataka,Kemmanagundi,Kemmanagundi
+322,Karnataka,Thirthahalli,Thirthahalli
+323,Karnataka,Kudremukh,Kudremukh
+324,Karnataka,Shravanabelagola,Shravanabelagola
+325,Karnataka,Pattadakal,Pattadakal
+326,Karnataka,Shimoga (Shivamogga),Shimoga-(Shivamogga)
+327,Karnataka,Devbagh,Devbagh
+328,Karnataka,Nandi Hills,Nandi-Hills
+329,Karnataka,Karwar,Karwar
+330,Karnataka,Halebidu,Halebidu
+331,Karnataka,Bijapur,Bijapur
+332,Karnataka,Shivagange,Shivagange
+333,Karnataka,Maravanthe,Maravanthe
+334,Karnataka,Mangalore,Mangalore
+335,Karnataka,Srirangapatna,Srirangapatna
+336,Karnataka,Savandurga,Savandurga
+337,Karnataka,Chikkaballapur,Chikkaballapur
+338,Karnataka,Honnemaradu,Honnemaradu
+339,Karnataka,Anthargange,Anthargange
+340,Karnataka,Bheemeshwari,Bheemeshwari
+341,Karnataka,Dubare,Dubare
+342,Karnataka,Dharmasthala,Dharmasthala
+343,Karnataka,Kundapura,Kundapura
+344,Karnataka,BR Hills,BR-Hills
+345,Karnataka,Sringeri,Sringeri
+346,Karnataka,Shivanasamudra Falls,Shivanasamudra-Falls
+347,Karnataka,Aihole,Aihole
+348,Karnataka,Bidar,Bidar
+349,Madhya Pradesh,Khajuraho,Khajuraho
+350,Madhya Pradesh,Bhedaghat,Bhedaghat
+351,Madhya Pradesh,Pachmarhi,Pachmarhi
+352,Madhya Pradesh,Gwalior,Gwalior
+353,Madhya Pradesh,Kanha National Park,Kanha-National-Park
+354,Madhya Pradesh,Orchha,Orchha
+355,Madhya Pradesh,Bandhavgarh National Park,Bandhavgarh-National-Park
+356,Madhya Pradesh,Omkareshwar,Omkareshwar
+357,Madhya Pradesh,Sanchi,Sanchi
+358,Madhya Pradesh,Ujjain,Ujjain
+359,Madhya Pradesh,Kuno National Park,Kuno-National-Park
+360,Madhya Pradesh,Indore,Indore
+361,Madhya Pradesh,Bhopal,Bhopal
+362,Madhya Pradesh,Bhimbetka,Bhimbetka
+363,Madhya Pradesh,Pench National Park,Pench-National-Park
+364,Madhya Pradesh,Mandu,Mandu
+365,Madhya Pradesh,Hanuwantiya,Hanuwantiya
+366,Madhya Pradesh,Maheshwar,Maheshwar
+367,Madhya Pradesh,Patalpani Waterfalls,Patalpani-Waterfalls
+368,Madhya Pradesh,Panna,Panna
+369,Madhya Pradesh,Sitlamata Falls,Sitlamata-Falls
+370,Madhya Pradesh,Jabalpur,Jabalpur
+371,Madhya Pradesh,Shivpuri,Shivpuri
+372,Madhya Pradesh,Madhai,Madhai
+373,Madhya Pradesh,Mohadi Falls,Mohadi-Falls
+374,Madhya Pradesh,Burhanpur,Burhanpur
+375,Madhya Pradesh,Amarkantak,Amarkantak
+376,Madhya Pradesh,Satna,Satna
+377,Madhya Pradesh,Udayagiri Caves,Udayagiri-Caves
+378,Madhya Pradesh,Chanderi,Chanderi
+379,Madhya Pradesh,Bawangaja,Bawangaja
+380,Madhya Pradesh,Chhindwara,Chhindwara
+381,Madhya Pradesh,Hoshangabad,Hoshangabad
+382,Madhya Pradesh,Bhojpur,Bhojpur
+383,Madhya Pradesh,Tincha Falls,Tincha-Falls
+384,Madhya Pradesh,Churna,Churna
+385,Madhya Pradesh,Kuno National Park,Kuno-National-Park
+386,Madhya Pradesh,Bamniya Kund,Bamniya-Kund
+387,Madhya Pradesh,Dharampuri,Dharampuri
+388,Madhya Pradesh,Choral Dam,Choral-Dam
+389,Madhya Pradesh,Janapav,Janapav
+390,Madhya Pradesh,Hatyari Khoh,Hatyari-Khoh
+391,Maharashtra,Ajanta and Ellora Caves,Ajanta-and-Ellora-Caves
+392,Maharashtra,Mahabaleshwar,Mahabaleshwar
+393,Maharashtra,Panchgani,Panchgani
+394,Maharashtra,Lavasa,Lavasa
+395,Maharashtra,Shirdi,Shirdi
+396,Maharashtra,Kolad,Kolad
+397,Maharashtra,Bhandardara,Bhandardara
+398,Maharashtra,Mumbai,Mumbai
+399,Maharashtra,Rajmachi,Rajmachi
+400,Maharashtra,Lonavala,Lonavala
+401,Maharashtra,Alibaug,Alibaug
+402,Maharashtra,Khandala,Khandala
+403,Maharashtra,Tarkarli,Tarkarli
+404,Maharashtra,Kashid,Kashid
+405,Maharashtra,Nashik,Nashik
+406,Maharashtra,Aurangabad,Aurangabad
+407,Maharashtra,Pune,Pune
+408,Maharashtra,Ganpatipule,Ganpatipule
+409,Maharashtra,Matheran,Matheran
+410,Maharashtra,Raigad,Raigad
+411,Maharashtra,Amboli,Amboli
+412,Maharashtra,Tadoba National Park,Tadoba-National-Park
+413,Maharashtra,Kamshet,Kamshet
+414,Maharashtra,Durshet,Durshet
+415,Maharashtra,Bhimashankar,Bhimashankar
+416,Maharashtra,Nagpur,Nagpur
+417,Maharashtra,Malvan,Malvan
+418,Maharashtra,Kolhapur,Kolhapur
+419,Maharashtra,Karjat,Karjat
+420,Maharashtra,Igatpuri,Igatpuri
+421,Maharashtra,Diveagar,Diveagar
+422,Maharashtra,Suryamal,Suryamal
+423,Maharashtra,Harihareshwar,Harihareshwar
+424,Maharashtra,Ratanwadi,Ratanwadi
+425,Maharashtra,Manori,Manori
+426,Maharashtra,Chiplun,Chiplun
+427,Maharashtra,Chikhaldara,Chikhaldara
+428,Maharashtra,Ratnagiri,Ratnagiri
+429,Maharashtra,Panvel,Panvel
+430,Maharashtra,Murud Janjira,Murud-Janjira
+431,Maharashtra,Dapoli,Dapoli
+432,Maharashtra,Malshej Ghat,Malshej-Ghat
+433,Mizoram,Aizawl,Aizawl
+434,Mizoram,Serchhip,Serchhip
+435,Mizoram,Lunglei,Lunglei
+436,Mizoram,Champhai,Champhai
+437,Mizoram,Mamit,Mamit
+438,Mizoram,Saiha,Saiha
+439,Mizoram,Kolasib,Kolasib
+440,Mizoram,Reiek,Reiek
+441,Mizoram,Vantawng Falls,Vantawng-Falls
+442,Mizoram,Hmuifang,Hmuifang
+443,Mizoram,Dampa Tiger Reserve,Dampa-Tiger-Reserve
+444,Mizoram,Tamdil (Tam Lake),Tamdil-(Tam-Lake)
+445,Mizoram,Falkawn Village,Falkawn-Village
+446,Mizoram,Phawngpui Peak,Phawngpui-Peak
+447,Mizoram,Phawngpui,Phawngpui
+448,Mizoram,Phawngpui National Park,Phawngpui-National-Park
+449,Nagaland,Kohima,Kohima
+450,Nagaland,Mokokchung,Mokokchung
+451,Nagaland,Dimapur,Dimapur
+452,Nagaland,Tuensang,Tuensang
+453,Nagaland,Phek,Phek
+454,Nagaland,Mon,Mon
+455,Nagaland,Dzukou Valley and Japfu Peak,Dzukou-Valley-and-Japfu-Peak
+456,Nagaland,Touphema Village,Touphema-Village
+457,Nagaland,Khonoma Village,Khonoma-Village
+458,Nagaland,Shilloi Lake,Shilloi-Lake
+459,Nagaland,Naga Heritage Village,Naga-Heritage-Village
+460,Nagaland,Hornbill Festival,Hornbill-Festival
+461,Nagaland,Pfutsero,Pfutsero
+462,Odisha,Puri,Puri
+463,Odisha,Bhubaneswar,Bhubaneswar
+464,Odisha,Konark,Konark
+465,Odisha,Cuttack,Cuttack
+466,Odisha,Baripada,Baripada
+467,Odisha,Gopalpur,Gopalpur
+468,Odisha,Chandipur,Chandipur
+469,Odisha,Sambalpur,Sambalpur
+470,Odisha,Talasari Beach,Talasari-Beach
+471,Odisha,Rourkela,Rourkela
+472,Odisha,Tikarpada Wildlife Sanctuary,Tikarpada-Wildlife-Sanctuary
+473,Odisha,Berhampur,Berhampur
+474,Odisha,Jeypore,Jeypore
+475,Odisha,Dhauli,Dhauli
+476,Odisha,Rayagada,Rayagada
+477,Odisha,Daringbadi,Daringbadi
+478,Odisha,Chilika Lake,Chilika-Lake
+479,Odisha,Hirakud Dam,Hirakud-Dam
+480,Odisha,Simlipal National Park,Simlipal-National-Park
+481,Odisha,Daringbadi,Daringbadi
+482,Odisha,Khandagiri Caves,Khandagiri-Caves
+483,Odisha,Satkosia Tiger Reserve,Satkosia-Tiger-Reserve
+484,Odisha,Udayagiri and Khandagiri Caves,Udayagiri-and-Khandagiri-Caves
+485,Odisha,Sri Jagannath Puri Temple,Sri-Jagannath-Puri-Temple
+486,Rajasthan,Jaipur,Jaipur
+487,Rajasthan,Udaipur,Udaipur
+488,Rajasthan,Jaisalmer,Jaisalmer
+489,Rajasthan,Jodhpur,Jodhpur
+490,Rajasthan,Bikaner,Bikaner
+491,Rajasthan,Ranthambore,Ranthambore
+492,Rajasthan,Pushkar,Pushkar
+493,Rajasthan,Mount Abu,Mount-Abu
+494,Rajasthan,Ajmer,Ajmer
+495,Rajasthan,Chittorgarh,Chittorgarh
+496,Rajasthan,Bharatpur,Bharatpur
+497,Rajasthan,Alwar,Alwar
+498,Rajasthan,Kumbhalgarh,Kumbhalgarh
+499,Rajasthan,Shekhawati,Shekhawati
+500,Rajasthan,Bundi,Bundi
+501,Rajasthan,Neemrana,Neemrana
+502,Rajasthan,Ranakpur,Ranakpur
+503,Rajasthan,Nathdwara,Nathdwara
+504,Rajasthan,Garadia Mahadev,Garadia-Mahadev
+505,Rajasthan,Fatehpur,Fatehpur
+506,Rajasthan,Khimsar,Khimsar
+507,Rajasthan,Nawalgarh,Nawalgarh
+508,Rajasthan,Rajsamand,Rajsamand
+509,Rajasthan,Jhunjhunu,Jhunjhunu
+510,Rajasthan,Mandawa,Mandawa
+511,Rajasthan,Osian,Osian
+512,Rajasthan,Sikar,Sikar
+513,Rajasthan,Churu,Churu
+514,Rajasthan,Kota,Kota
+515,Rajasthan,Deeg,Deeg
+516,Rajasthan,Jhalawar,Jhalawar
+517,Rajasthan,Eklingji Temple,Eklingji-Temple
+518,Rajasthan,Bharatpur National Park,Bharatpur-National-Park
+519,Rajasthan,Bhangarh Fort,Bhangarh-Fort
+520,Rajasthan,Sariska National Park,Sariska-National-Park
+521,Rajasthan,Salasar Balaji,Salasar-Balaji
+522,Rajasthan,Chand Baori,Chand-Baori
+523,Rajasthan,Galtaji Temple,Galtaji-Temple
+524,Rajasthan,Barmer,Barmer
+525,Rajasthan,Desert National Park,Desert-National-Park
+526,Rajasthan,Pilani,Pilani
+527,Rajasthan,Kesroli,Kesroli
+528,Sikkim,Gangtok,Gangtok
+529,Sikkim,Nathula Pass,Nathula-Pass
+530,Sikkim,Pelling,Pelling
+531,Sikkim,Tsomgo Lake,Tsomgo-Lake
+532,Sikkim,Lachen,Lachen
+533,Sikkim,Gurudongmar Lake,Gurudongmar-Lake
+534,Sikkim,Yumthang Valley,Yumthang-Valley
+535,Sikkim,Lachung,Lachung
+536,Sikkim,Yuksom,Yuksom
+537,Sikkim,Zuluk,Zuluk
+538,Sikkim,Goecha La,Goecha-La
+539,Sikkim,Kanchenjunga National Park,Kanchenjunga-National-Park
+540,Sikkim,Ravangla,Ravangla
+541,Sikkim,Pemayangtse Monastery,Pemayangtse-Monastery
+542,Sikkim,Rumtek Monastery,Rumtek-Monastery
+543,Sikkim,Namchi,Namchi
+544,Sikkim,Thangu Valley,Thangu-Valley
+545,Sikkim,Do Drul Chorten,Do-Drul-Chorten
+546,Sikkim,Chopta Valley,Chopta-Valley
+547,Sikkim,Cholamu Lake,Cholamu-Lake
+548,Sikkim,Aritar,Aritar
+549,Sikkim,Geyzing,Geyzing
+550,Sikkim,West Sikkim,West-Sikkim
+551,Sikkim,South Sikkim,South-Sikkim
+552,Sikkim,North Sikkim,North-Sikkim
+553,Sikkim,Yangtey,Yangtey
+554,Sikkim,Biksthang,Biksthang
+555,Sikkim,Borong,Borong
+556,Sikkim,Tendong Hill,Tendong-Hill
+557,Sikkim,Mangan,Mangan
+558,Sikkim,Dzongri Trek,Dzongri-Trek
+559,Sikkim,Kasturi Trek,Kasturi-Trek
+560,Sikkim,Barsey Rhododendron Trek,Barsey-Rhododendron-Trek
+561,Sikkim,Tinkitam,Tinkitam
+562,Sikkim,Barsey Rhododendron Sanctuary,Barsey-Rhododendron-Sanctuary
+563,Sikkim,Lachung,Lachung
+564,Sikkim,Pelling,Pelling
+565,Punjab,Chandigarh,Chandigarh
+566,Punjab,Amritsar,Amritsar
+567,Punjab,Patiala,Patiala
+568,Punjab,Ludhiana,Ludhiana
+569,Punjab,Sirhind,Sirhind
+570,Punjab,Jalandhar,Jalandhar
+571,Punjab,Anandpur Sahib,Anandpur-Sahib
+572,Punjab,Harike Wetland,Harike-Wetland
+573,Punjab,Pathankot,Pathankot
+574,Punjab,Gurudwara Ber Sahib,Gurudwara-Ber-Sahib
+575,Punjab,Bathinda,Bathinda
+576,Punjab,Ropar Wetlands,Ropar-Wetlands
+577,Punjab,Rural Olympics at Qila Raipur,Rural-Olympics-at-Qila-Raipur
+578,Tamil Nadu,Rameshwaram,Rameshwaram
+579,Tamil Nadu,Yercaud,Yercaud
+580,Tamil Nadu,Kodaikanal,Kodaikanal
+581,Tamil Nadu,Ooty,Ooty
+582,Tamil Nadu,Chennai,Chennai
+583,Tamil Nadu,Auroville,Auroville
+584,Tamil Nadu,Hogenakkal,Hogenakkal
+585,Tamil Nadu,Mahabalipuram,Mahabalipuram
+586,Tamil Nadu,Kanyakumari,Kanyakumari
+587,Tamil Nadu,Kanchipuram,Kanchipuram
+588,Tamil Nadu,Madurai,Madurai
+589,Tamil Nadu,Coimbatore,Coimbatore
+590,Tamil Nadu,Thanjavur,Thanjavur
+591,Tamil Nadu,Tirunelveli,Tirunelveli
+592,Tamil Nadu,Mudumalai National Park,Mudumalai-National-Park
+593,Tamil Nadu,Thiruvannamalai,Thiruvannamalai
+594,Tamil Nadu,Coonoor,Coonoor
+595,Tamil Nadu,Velankanni,Velankanni
+596,Tamil Nadu,Dhanushkodi,Dhanushkodi
+597,Tamil Nadu,Tuticorin,Tuticorin
+598,Tamil Nadu,Yelagiri,Yelagiri
+599,Tamil Nadu,Kumbakonam,Kumbakonam
+600,Tamil Nadu,Chettinad,Chettinad
+601,Tamil Nadu,Trichy,Trichy
+602,Tamil Nadu,Chidambram,Chidambram
+603,Tamil Nadu,Nagapattinam,Nagapattinam
+604,Tamil Nadu,Vedanthangal,Vedanthangal
+605,Tamil Nadu,Tharangambadi,Tharangambadi
+606,Tamil Nadu,Kutralam,Kutralam
+607,Tamil Nadu,Bellikkal,Bellikkal
+608,Tamil Nadu,Vellore,Vellore
+609,Tamil Nadu,Theni,Theni
+610,Tamil Nadu,Pollachi,Pollachi
+611,Tamil Nadu,Yanam,Yanam
+612,Tamil Nadu,Tiruchirappalli,Tiruchirappalli
+613,Tamil Nadu,Kolli Hills,Kolli-Hills
+614,Tamil Nadu,Palani,Palani
+615,Tamil Nadu,Tenkasi,Tenkasi
+616,Tamil Nadu,Dindigul,Dindigul
+617,Tamil Nadu,Mayiladuthurai,Mayiladuthurai
+618,Tamil Nadu,Thiruvarur,Thiruvarur
+619,Tamil Nadu,Pulicat,Pulicat
+620,Kerala,Munnar,Munnar
+621,Kerala,Alleppey,Alleppey
+622,Kerala,Kochi,Kochi
+623,Kerala,Wayanad,Wayanad
+624,Kerala,Periyar National Park,Periyar-National-Park
+625,Kerala,Varkala,Varkala
+626,Kerala,Kumarakom,Kumarakom
+627,Kerala,Vagamon,Vagamon
+628,Kerala,Kovalam,Kovalam
+629,Kerala,Poovar,Poovar
+630,Kerala,Kollam,Kollam
+631,Kerala,Idukki,Idukki
+632,Kerala,Sabarimala,Sabarimala
+633,Kerala,Kozhikode,Kozhikode
+634,Kerala,Bekal,Bekal
+635,Kerala,Thrissur,Thrissur
+636,Kerala,Palakkad,Palakkad
+637,Kerala,Thalassery,Thalassery
+638,Kerala,Trivandrum,Trivandrum
+639,Kerala,Nelliyampathy,Nelliyampathy
+640,Kerala,Vythiri,Vythiri
+641,Kerala,Nilambur,Nilambur
+642,Kerala,Ponmudi,Ponmudi
+643,Kerala,Kalpetta,Kalpetta
+644,Kerala,Peerumedu,Peerumedu
+645,Kerala,Guruvayur,Guruvayur
+646,Kerala,Malampuzha,Malampuzha
+647,Kerala,Kannur,Kannur
+648,Kerala,Kasaragod,Kasaragod
+649,Kerala,Thenmala,Thenmala
+650,Kerala,Kottayam,Kottayam
+651,Kerala,Kumily,Kumily
+652,Kerala,Ponnani,Ponnani
+653,Kerala,Pathanamthitta,Pathanamthitta
+654,Kerala,Thattekad Bird Sanctuary,Thattekad-Bird-Sanctuary
+655,Kerala,Thekkady,Thekkady
+656,Kerala,Muthanga Wildlife Sanctuary,Muthanga-Wildlife-Sanctuary
+657,Kerala,Malappuram,Malappuram
+658,Kerala,Devikulam,Devikulam
+659,Kerala,Tholpetty,Tholpetty
+660,Kerala,Thodupuzha,Thodupuzha
+661,Kerala,Kurumbalakotta,Kurumbalakotta
+662,Tripura,Agartala,Agartala
+663,Tripura,Kailashahar,Kailashahar
+664,Tripura,Unakoti,Unakoti
+665,Tripura,Bison (Rajbari) National Park,Bison-(Rajbari)-National-Park
+666,Tripura,Rudrasagar Lake,Rudrasagar-Lake
+667,Tripura,Ambassa,Ambassa
+668,Tripura,Neermahal,Neermahal
+669,Uttarakhand,Rishikesh,Rishikesh
+670,Uttarakhand,Auli,Auli
+671,Uttarakhand,Nainital,Nainital
+672,Uttarakhand,Dehradun,Dehradun
+673,Uttarakhand,Mussoorie,Mussoorie
+674,Uttarakhand,Haridwar,Haridwar
+675,Uttarakhand,Jim Corbett National Park,Jim-Corbett-National-Park
+676,Uttarakhand,Lansdowne,Lansdowne
+677,Uttarakhand,Mukteshwar,Mukteshwar
+678,Uttarakhand,Chopta,Chopta
+679,Uttarakhand,Kedarnath,Kedarnath
+680,Uttarakhand,Badrinath,Badrinath
+681,Uttarakhand,Gangotri,Gangotri
+682,Uttarakhand,Yamunotri,Yamunotri
+683,Uttarakhand,Valley of Flowers,Valley-of-Flowers
+684,Uttarakhand,Kausani,Kausani
+685,Uttarakhand,Almora,Almora
+686,Uttarakhand,Dhanaulti,Dhanaulti
+687,Uttarakhand,Chakrata,Chakrata
+688,Uttarakhand,Ranikhet,Ranikhet
+689,Uttarakhand,Kanatal,Kanatal
+690,Uttarakhand,Uttarkashi,Uttarkashi
+691,Uttarakhand,Binsar,Binsar
+692,Uttarakhand,Bhimtal,Bhimtal
+693,Uttarakhand,Naukuchiatal,Naukuchiatal
+694,Uttarakhand,Joshimath,Joshimath
+695,Uttarakhand,Tungnath and Chandrashila Trek,Tungnath-and-Chandrashila-Trek
+696,Uttarakhand,Kumaon,Kumaon
+697,Uttarakhand,Tehri Garhwal,Tehri-Garhwal
+698,Uttarakhand,Rajaji National Park,Rajaji-National-Park
+699,Uttarakhand,Sattal,Sattal
+700,Uttarakhand,Munsiyari,Munsiyari
+701,Uttarakhand,Roopkund Trek,Roopkund-Trek
+702,Uttarakhand,Abbott Mount,Abbott-Mount
+703,Uttarakhand,Champawat,Champawat
+704,Uttarakhand,Madhyamaheshwar,Madhyamaheshwar
+705,Uttarakhand,Bageshwar,Bageshwar
+706,Uttarakhand,Pithoragarh,Pithoragarh
+707,Uttarakhand,Pauri Garhwal,Pauri-Garhwal
+708,Uttarakhand,Chamba,Chamba
+709,Uttarakhand,Ramgarh,Ramgarh
+710,Uttarakhand,Guptakashi,Guptakashi
+711,Telangana,Hyderabad,Hyderabad
+712,Telangana,Papikondalu,Papikondalu
+713,Telangana,Nagarjunsagar,Nagarjunsagar
+714,Telangana,Warangal,Warangal
+715,Telangana,Bhadrachalam,Bhadrachalam
+716,Telangana,Adilabad,Adilabad
+717,Telangana,Nalgonda,Nalgonda
+718,Telangana,Nizamabad,Nizamabad
+719,Telangana,Khammam,Khammam
+720,Telangana,Secunderabad,Secunderabad
+721,Telangana,Karimnagar,Karimnagar
+722,Telangana,Chilkur Balaji Temple,Chilkur-Balaji-Temple
+723,Telangana,Nelakondapalli,Nelakondapalli
+724,Telangana,Kinnerasani Wildlife Sanctuary,Kinnerasani-Wildlife-Sanctuary
+725,Telangana,Laknavaram Lake,Laknavaram-Lake
+726,Telangana,Kanakai Waterfalls,Kanakai-Waterfalls
+727,Telangana,Bogatha Falls,Bogatha-Falls
+728,Telangana,Gayatri Waterfalls,Gayatri-Waterfalls
+729,Telangana,Medaram,Medaram
+730,Telangana,Mallela Theertham,Mallela-Theertham
+731,Telangana,Mrugavani National Park,Mrugavani-National-Park
+732,Telangana,KBR National Park,KBR-National-Park
+733,Telangana,Vemulawada,Vemulawada
+734,Telangana,Mahbubnagar,Mahbubnagar
+735,Telangana,Medak Cathedral,Medak-Cathedral
+736,Telangana,Medak Fort,Medak-Fort
+737,Telangana,Rachakonda Fort,Rachakonda-Fort
+738,Telangana,Koti Lingala,Koti-Lingala
+739,Telangana,Somasila,Somasila
+740,Uttar Pradesh,Agra,Agra
+741,Uttar Pradesh,Varanasi,Varanasi
+742,Uttar Pradesh,Vrindavan,Vrindavan
+743,Uttar Pradesh,Lucknow,Lucknow
+744,Uttar Pradesh,Allahabad,Allahabad
+745,Uttar Pradesh,Sarnath,Sarnath
+746,Uttar Pradesh,Mathura,Mathura
+747,Uttar Pradesh,Fatehpur Sikri,Fatehpur-Sikri
+748,Uttar Pradesh,Vindhyachal,Vindhyachal
+749,Uttar Pradesh,Chitrakoot,Chitrakoot
+750,Uttar Pradesh,Ayodhya,Ayodhya
+751,Uttar Pradesh,Dudhwa National Park,Dudhwa-National-Park
+752,Uttar Pradesh,National Chambal Wildlife Sanctuary,National-Chambal-Wildlife-Sanctuary
+753,Uttar Pradesh,Jhansi,Jhansi
+754,Uttar Pradesh,Hastinapur,Hastinapur
+755,Uttar Pradesh,Noida,Noida
+756,Uttar Pradesh,Kanpur,Kanpur
+757,Uttar Pradesh,Muzaffarnagar,Muzaffarnagar
+758,Uttar Pradesh,Ghaziabad,Ghaziabad
+759,Uttar Pradesh,Meerut,Meerut
+760,Uttar Pradesh,Aligarh,Aligarh
+761,Uttar Pradesh,Firozabad,Firozabad
+762,Uttar Pradesh,Loni,Loni
+763,Uttar Pradesh,Kushinagar,Kushinagar
+764,Uttar Pradesh,Barsana,Barsana
+765,Uttar Pradesh,Shravasti,Shravasti
+766,Uttar Pradesh,Garhmukteshwar,Garhmukteshwar
+767,Uttar Pradesh,Pilibhit,Pilibhit
+768,Uttar Pradesh,Bateshwar Temples,Bateshwar-Temples
+769,Uttar Pradesh,Dewa Sharif,Dewa-Sharif
+770,Uttar Pradesh,Bithoor,Bithoor
+771,Uttar Pradesh,Nawabganj Bird Sanctuary,Nawabganj-Bird-Sanctuary
+772,Uttar Pradesh,Pilibhit,Pilibhit
+773,Uttar Pradesh,Fort of Unchagaon,Fort-of-Unchagaon
+774,Uttar Pradesh,Naimisharanya,Naimisharanya
+775,West Bengal,Kolkata,Kolkata
+776,West Bengal,Darjeeling,Darjeeling
+777,West Bengal,Sundarbans,Sundarbans
+778,West Bengal,Siliguri,Siliguri
+779,West Bengal,Mirik,Mirik
+780,West Bengal,Digha,Digha
+781,West Bengal,Dooars,Dooars
+782,West Bengal,Kalimpong,Kalimpong
+783,West Bengal,Murshidabad,Murshidabad
+784,West Bengal,Kurseong,Kurseong
+785,West Bengal,Navadvipa,Navadvipa
+786,West Bengal,Durgapur,Durgapur
+787,West Bengal,Haldia,Haldia
+788,West Bengal,Santiniketan,Santiniketan
+789,West Bengal,Raichak,Raichak
+790,West Bengal,Bakkhali,Bakkhali
+791,West Bengal,Lataguri,Lataguri
+792,West Bengal,Bankura,Bankura
+793,West Bengal,Bishnupur,Bishnupur
+794,West Bengal,Cooch Behar,Cooch-Behar
+795,West Bengal,Lolegaon,Lolegaon
+796,West Bengal,Bardhaman,Bardhaman
+797,West Bengal,Mukutmanipur,Mukutmanipur
+798,West Bengal,Malda,Malda
+799,West Bengal,Shankarpur,Shankarpur
+800,West Bengal,Mayapur,Mayapur
+801,West Bengal,Tarapith,Tarapith
+802,West Bengal,Purulia,Purulia
+803,West Bengal,Jalpaiguri,Jalpaiguri
+804,West Bengal,Jaldhaka,Jaldhaka
+805,West Bengal,Chandannagar,Chandannagar
+806,West Bengal,Midnapore,Midnapore
+807,West Bengal,Jaldapara National Park,Jaldapara-National-Park
+808,West Bengal,Ganga Sagar (Sagardwip),Ganga-Sagar-(Sagardwip)
+809,West Bengal,Rajabhatkhawa,Rajabhatkhawa
+810,West Bengal,Howrah,Howrah
+811,West Bengal,Asansol,Asansol
+812,West Bengal,Bagdogra,Bagdogra
+813,West Bengal,Belur Math,Belur-Math
+814,West Bengal,Gorumara National Park,Gorumara-National-Park
+815,West Bengal,Ganga Sagar Mela,Ganga-Sagar-Mela
+816,West Bengal,Chapramari Wildlife Sanctuary,Chapramari-Wildlife-Sanctuary
+817,Goa,Calangute Beach,Calangute-Beach
+818,Goa,Fort Aguada,Fort-Aguada
+819,Goa,Cruise in Goa,Cruise-in-Goa
+820,Goa,Water Sports in Goa,Water-Sports-in-Goa
+821,Goa,Dudhsagar Falls,Dudhsagar-Falls
+822,Goa,Anjuna Beach,Anjuna-Beach
+823,Goa,Chapora Fort,Chapora-Fort
+824,Goa,Thalassa,Thalassa
+825,Goa,Basilica of Bom Jesus,Basilica-of-Bom-Jesus
+826,Goa,Baga Beach,Baga-Beach
+827,Goa,Butterfly Beach,Butterfly-Beach
+828,Goa,Divar Island,Divar-Island
+829,Goa,Scuba Diving in Goa,Scuba-Diving-in-Goa
+830,Goa,Shopping in Goa,Shopping-in-Goa
+831,Goa,Dona Paula,Dona-Paula
+832,Goa,Arambol Beach,Arambol-Beach
+833,Goa,Vagator Beach,Vagator-Beach
+834,Goa,Fontainhas and Sao Tome,Fontainhas-and-Sao-Tome
+835,Goa,Church of Our Lady of the Immaculate Conception,Church-of-Our-Lady-of-the-Immaculate-Conception
+836,Goa,Tito's Nightclub,Tito's-Nightclub
+837,Goa,Brittos,Brittos
+838,Goa,Mambos,Mambos
+839,Goa,Club LPK - Love Passion Karma,Club-LPK---Love-Passion-Karma
+840,Goa,Anjuna Flea Market,Anjuna-Flea-Market
+841,Goa,Palolem Beach,Palolem-Beach
+842,Goa,Bungee Jumping in Goa,Bungee-Jumping-in-Goa
+843,Goa,Spa and Massages,Spa-and-Massages
+844,Goa,Colva Beach,Colva-Beach
+845,Goa,Morjim Beach,Morjim-Beach
+846,Goa,Casino,Casino
+847,Goa,Agonda Beach,Agonda-Beach
+848,Goa,Candolim Beach,Candolim-Beach
+849,Goa,Se Cathedral,Se-Cathedral
+850,Goa,Cavelossim Beach,Cavelossim-Beach
+851,Goa,Patnem Beach,Patnem-Beach
+852,Goa,Betalbatim Beach,Betalbatim-Beach
+853,Goa,Fort Tiracol,Fort-Tiracol
+854,Goa,Grande Island,Grande-Island
+855,Goa,Bhagwan Mahavir Wildlife Sanctuary,Bhagwan-Mahavir-Wildlife-Sanctuary
+856,Goa,Arvalem Waterfalls,Arvalem-Waterfalls
+857,Goa,Mollem National Park,Mollem-National-Park
+858,Goa,Sunburn Festival,Sunburn-Festival
+859,Goa,Carnival in Goa,Carnival-in-Goa
+860,Goa,Church of St,Church-of-St
+861,Goa,Bambolim Beach,Bambolim-Beach
+862,Goa,Butterfly Conservatory Of Goa,Butterfly-Conservatory-Of-Goa
+863,Goa,Sri Mahadeva Temple,Sri-Mahadeva-Temple
+864,Goa,Church of St Francis of Assisi,Church-of-St-Francis-of-Assisi
+865,Goa,Cabo de Rama Beach,Cabo-de-Rama-Beach
+866,Goa,Church Of St Augustine,Church-Of-St-Augustine
+867,Goa,Savoi Spice Plantation,Savoi-Spice-Plantation
+868,Goa,Ashwem Beach,Ashwem-Beach
